@@ -8,7 +8,7 @@ Window {
     height: 480
     title: qsTr("HelloActions-Qt")
     Text {
-        text: "Hello " + Qt.platform.os + ", By macOS Test"
+        text: "Hello " + Qt.platform.os + ", By macOS Test2"
         anchors.centerIn: parent
     }
 }
